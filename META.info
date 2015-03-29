@@ -3,5 +3,8 @@
     "version"     : "*",
     "description" : "Colorize terminal output",
     "depends"     : [],
+    "provides"    : {
+        "Term::ANSIColor" : "lib/Term/ANSIColor.pm"
+    },
     "source-url"  : "git://github.com/tadzik/perl6-Term-ANSIColor.git"
 }
