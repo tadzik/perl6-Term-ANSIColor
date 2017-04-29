@@ -23,5 +23,8 @@
         "bugtracker" : "https://github.com/tadzik/perl6-Term-ANSIColor/issues",
         "source" : "git://github.com/tadzik/perl6-Term-ANSIColor.git"
     },
-    "source-url"  : "git://github.com/tadzik/perl6-Term-ANSIColor.git"
+    "source-url"  : "git://github.com/tadzik/perl6-Term-ANSIColor.git",
+    "superseded-by" : {
+     "Term::ANSIColor": "Terminal::ANSIColor"
+  }
 }
